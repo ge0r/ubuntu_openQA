@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "choose_timezone_btn"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 888,
+      "ypos": 559,
+      "width": 81,
+      "height": 17,
+      "type": "match"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "installation_window_on"
+  ],
+  "area": [
+    {
+      "xpos": 381,
+      "ypos": 133,
+      "width": 250,
+      "height": 15,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

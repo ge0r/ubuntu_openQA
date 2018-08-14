@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "press_enter_screen"
+  ],
+  "area": [
+    {
+      "xpos": 250,
+      "ypos": 259,
+      "width": 572,
+      "height": 230,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}

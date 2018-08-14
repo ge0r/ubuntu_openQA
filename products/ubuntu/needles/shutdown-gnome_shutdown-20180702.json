@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 903,
+      "ypos": 236,
+      "width": 47,
+      "height": 47,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gnome_shutdown"
+  ]
+}

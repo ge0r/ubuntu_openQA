@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "xpos": 881,
+      "ypos": 553,
+      "width": 86,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "continue_user_btn"
+  ]
+}

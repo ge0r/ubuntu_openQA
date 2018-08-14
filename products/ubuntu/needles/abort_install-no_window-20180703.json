@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "no_window"
+  ],
+  "area": [
+    {
+      "xpos": 5,
+      "ypos": 4,
+      "width": 77,
+      "height": 415,
+      "type": "match"
+    }
+  ]
+}

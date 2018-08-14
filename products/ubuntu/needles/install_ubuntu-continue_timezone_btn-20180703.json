@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 498,
+      "ypos": 316,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "choose_timezone"
+  ]
+}

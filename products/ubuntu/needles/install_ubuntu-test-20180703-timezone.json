@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "continue_timezone_bt"
+  ],
+  "properties": [],
+  "area": [
+    {
+      "xpos": 886,
+      "ypos": 556,
+      "width": 85,
+      "height": 20,
+      "type": "match"
+    }
+  ]
+}
